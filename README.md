@@ -20,4 +20,5 @@
 
 [![Updates](https://pyup.io/repos/github/marcosranes/django_course/shield.svg)](https://pyup.io/repos/github/marcosranes/django_course/) [![Python 3](https://pyup.io/repos/github/marcosranes/django_course/python-3-shield.svg)](https://pyup.io/repos/github/marcosranes/django_course/)
 
-test commit
+Enabled automatic deployment to Heroku:
+https://django-webapp-3d3e370550ab.herokuapp.com/
