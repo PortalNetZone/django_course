@@ -20,5 +20,10 @@
 
 [![Updates](https://pyup.io/repos/github/marcosranes/django_course/shield.svg)](https://pyup.io/repos/github/marcosranes/django_course/) [![Python 3](https://pyup.io/repos/github/marcosranes/django_course/python-3-shield.svg)](https://pyup.io/repos/github/marcosranes/django_course/)
 
-Enabled automatic deployment to Heroku:
+# Enabled continuous deployment to Heroku: 
+[![Heroku](https://heroku-badge.herokuapp.com/?app=django-webapp)](https://django-webapp.herokuapp.com/)
+![Heroku](https://img.shields.io/badge/Heroku-Live-brightgreen?logo=heroku&color=430098&label=Status&style=flat)
+[![App Status](https://img.shields.io/website-up-down-green-red/https/django-webapp-3d3e370550ab.herokuapp.com/status.svg)](https://django-webapp-3d3e370550ab.herokuapp.com/)
+[![App Status](https://img.shields.io/website-up-down-green-red/https/django-webapp.herokuapp.com/status.svg)](https://django-webapp.herokuapp.com/)
 https://django-webapp-3d3e370550ab.herokuapp.com/
+
