@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # added 10.30.2024 by issue#16
+    'pypro.base',
 ]
 
 MIDDLEWARE = [
